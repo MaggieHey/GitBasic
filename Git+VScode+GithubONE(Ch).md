@@ -1,52 +1,40 @@
-# Git 理解
+# 1.1 Git understanding
 
-本地文件—VScodeh—github间的传送工具
 
-# Git 简介
+
+本地文件—VScode—github间的传送工具
+
+**local files-VScode-github** 
+
+# 1.2 Git introduction
 
 > It's a version control sysytem for tracking changes in computer files.It's a distributed version control system or decentralized version control system.What that means is that many developers can work on a single peoject without having to on the same work.
-
-它是一个版本控制系统，用于追踪电脑文件发生的改变。
-
-它是一个分布式或分散式版本控制系统，可让不在同一网络上的开发者在同一项目上工作。
 
 **功能包括：**
 
 - 分布式版本控制
-
 - 不同开发者间协同合作
-
 - 显示何人何时做出何种改变
-
 - 在任何时候还原文件
-
 - 本地到远程的发布
 
-  ![2](C:\Users\Administrator\Desktop\GitBasic\png\2.PNG)
-
-# Git 使用简述
+# 1.3 Git simple use summary
 
 - 建立文件，初始化文件为仓库，运行git命令
-
 - 使用add命令将要提交的内容放到暂存区
-
 - 修改完毕后，将暂存区代码上传到本地仓库中
-
 - 将本地仓库代码上传到远程仓库中，其它人可拉取信息到它们的电脑
-
 - 多人协作时，有时会建立分支
 
-  
-
-# Git 常用命令
+# 1.4 Git common commands
 
 ## Git 基本命令
 
-![3](C:\Users\Administrator\Desktop\GitBasic\png\3.PNG)
+![](https://ftp.bmp.ovh/imgs/2020/06/2911d3f20f9e5638.png)
 
 ## Git 命令组
 
-准备：创建项目文件 →文件内启动Git→文件添加到VS项目→VS内添加文件→VS内进行文件编辑
+准备：创建项目文件夹 →文件夹内启动Git→文件夹添加到VS项目→VS内添加文件夹→VS内进行文件编辑
 
 ```
 *本地仓库+VScode*
@@ -98,25 +86,17 @@ git pull //看到该项目的最新更新
 
 
 
-# Github 基本建仓
+# 1.5 Git repository establishment
 
 - 创建新仓库
-
 - 命名
-
 - 简单介绍
-
 - public和private选择
-
-- Creek单机建仓
-
+- Creek建立
 - readme（暂时忽略）
-
 - 复制远程仓库Git链接
 
-  
-
-# Git+VScode+Github work flow
+# 1.6 Git+VScode+Github work flow
 
 ## ①四个窗口
 
