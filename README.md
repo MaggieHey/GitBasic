@@ -2,9 +2,9 @@
 
 (*´▽｀)ノHey,
 
-[仓库简介](https://youtu.be/ZufNBkRsEg4)
+[仓库简介youtube视频](https://youtu.be/ZufNBkRsEg4)
 
-我是Maggie~这是我的第一个仓库
+我是Maggie~这是我的第一个仓库f
 
 这个仓库是分享Git基础知识的仓库
 
