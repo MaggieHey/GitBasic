@@ -126,7 +126,7 @@ git remote (远程仓库链接)//连接远程仓库
 git push //把本地仓库内文件传到Github
 touch README.md //添加README文件
 git add. //全部存到暂存区
-commit add-M '____'//全部传到本地仓库
+git commit -m '____'//全部传到本地仓库
 git push//本地仓库内容全部转到github
 
 ```
